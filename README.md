@@ -1,1 +1,2 @@
 # Simon_game
+The Simon Game is a memory-based game where players must remember and replicate an increasingly long sequence of colors and sounds. The game lights up a random button (from red, blue, green, yellow) and plays a matching sound. Each round, a new color is added to the sequence. The player must click the buttons in the same order. If the player makes a mistake, the game ends and restarts.
